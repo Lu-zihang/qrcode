@@ -1,7 +1,3 @@
-from enum import IntFlag
-from pydoc import describe
-from subprocess import call
-from tkinter.messagebox import NO
 import cv2 as cv
 import pyttsx3
 from pyzbar.pyzbar import decode
